@@ -48,17 +48,19 @@ img {
 
 h1 {
     font-weight: 600;
+
+    margin-bottom: .5rem;
 }
 
 .location {
     color: hsl(75, 94%, 57%);
-    font-weight: 600;
+    font-weight: 700;
 
 }
 
 .description {
     color: hsl(0, 0%, 80%);
-    font-weight: 400;
+    font-weight: 00;
 
     margin-block: 2rem 1rem;
 }
@@ -66,12 +68,12 @@ h1 {
 a {
     text-decoration: none;
     color:  hsl(0, 0%, 100%);
-    font-weight: 700;
+    font-weight: 600;
 
     background-color: hsl(0, 0%, 20%);
     
     padding: 1.5rem;
-    margin-block: 1rem;
+    margin-block: .5rem; 
 
 
     border-radius: 1rem;
